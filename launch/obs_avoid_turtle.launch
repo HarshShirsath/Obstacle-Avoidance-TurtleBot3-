@@ -1,0 +1,3 @@
+<launch>
+    <node name="obstacle_avoid_node" pkg="obs_avoid_turtle" type="obs_avoid_turtle.py" />
+</launch>
